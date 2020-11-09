@@ -1,0 +1,62 @@
+body {
+    font-family: 'adobe-caslon-pro', sans-serif;
+}
+.navbar-brand {
+    font-size: 2.7rem;
+}
+.nav-link {
+    font-size: 1em;
+    font-family: 'adobe-caslon-pro', sans-serif;
+    letter-spacing: 0.2em;
+}
+header {
+    background-image: url('../img/000032.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+
+}
+.dash-text {
+    border: none;
+    height: 0.1rem;
+    width: 348px;
+    background-color: white
+}
+.texto, .date-txt, .card-text {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 100;
+}
+@media (max-width: 450px) {
+    .resize { 
+        font-size: 3.7rem; 
+        }
+    
+    }
+@media (max-width: 450px) {
+    hr { 
+        width: 270px; 
+        }
+        
+    }
+.dash-text2 {
+    border: none;
+    height: 0.2rem;
+    width: 300px;
+    background-color: black
+}
+.dash-text3 {
+    border: none;
+    height: 0.2rem;
+    width: 300px;
+    background-color: white
+}
+.card {
+    border: none;
+}
+.dash-text4 {
+    border: none;
+    height: 0.2rem;
+    width: 200px;
+    background-color: black
+}
