@@ -10,10 +10,9 @@ body {
     letter-spacing: 0.2em;
 }
 header {
-    background-image: url('../img/000032.JPG');
+    background-image: url('../img/000010.JPG');
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
     background-position: center center;
 
 }
