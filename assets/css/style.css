@@ -16,8 +16,11 @@ header {
     background-position: center center;
 
 }
+.text-header {
+    text-shadow: 2px 2px black;
+}
 .dash-text {
-    border: none;
+    border: navy;
     height: 0.1rem;
     width: 348px;
     background-color: white
