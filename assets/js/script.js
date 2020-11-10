@@ -11,5 +11,14 @@ $(function () {
                 window.location.hash = gato;
                 });
                 }
-            });    
+            });
+    $('body').popover({
+        selector: '[data-popover]',
+        trigger: 'hover',
+        placement: 'left',
+        delay: {
+            show: 10,
+            hide: 800,
+            }
+        });    
 })
