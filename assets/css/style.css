@@ -16,6 +16,9 @@ header {
     background-position: center center;
 
 }
+.text-header {
+    text-shadow: 2px 2px black;
+}
 .dash-text {
     border: none;
     height: 0.1rem;
