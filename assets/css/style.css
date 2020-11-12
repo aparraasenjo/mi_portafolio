@@ -21,13 +21,14 @@ header {
 .dash-text {
     border: navy;
     height: 0.1rem;
-    width: 348px;
+    width: 21.75em;
     background-color: white
 }
 .texto, .date-txt, .card-text {
     font-family: 'Cabin', sans-serif;
     font-weight: 100;
 }
+
 @media (max-width: 450px) {
     .resize { 
         font-size: 3.7rem; 
